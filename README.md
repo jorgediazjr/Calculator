@@ -1,5 +1,5 @@
 ## Simple Calculator
 
-Coded for school project ... still kind of a work in progress.
+Coded for school project.
 
 ![Screenshot](calculator_img.png)
